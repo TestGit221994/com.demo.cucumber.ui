@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Runner" duration-ms="90206" started-at="2023-02-10T11:03:20Z" finished-at="2023-02-10T11:04:50Z">
+    <groups>
+    </groups>
+    <test name="Device 1" duration-ms="90206" started-at="2023-02-10T11:03:20Z" finished-at="2023-02-10T11:04:50Z">
+      <class name="demoblaze.testcase.RegisterTestCase">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="initBrowser" is-config="true" duration-ms="18800" started-at="2023-02-10T11:03:20Z" finished-at="2023-02-10T11:03:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="verifyBlazeLinksOnGoogleSearchPage()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="verifyBlazeLinksOnGoogleSearchPage" duration-ms="324" started-at="2023-02-10T11:03:39Z" finished-at="2023-02-10T11:03:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBlazeLinksOnGoogleSearchPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="closeBrowser" is-config="true" duration-ms="684" started-at="2023-02-10T11:03:39Z" finished-at="2023-02-10T11:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="initBrowser" is-config="true" duration-ms="16087" started-at="2023-02-10T11:03:40Z" finished-at="2023-02-10T11:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="verifyUserShouldBeNavigateToBlazeHomePage()[pri:1, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="verifyUserShouldBeNavigateToBlazeHomePage" duration-ms="4479" started-at="2023-02-10T11:03:56Z" finished-at="2023-02-10T11:04:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldBeNavigateToBlazeHomePage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="closeBrowser" is-config="true" duration-ms="677" started-at="2023-02-10T11:04:00Z" finished-at="2023-02-10T11:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="initBrowser" is-config="true" duration-ms="14370" started-at="2023-02-10T11:04:01Z" finished-at="2023-02-10T11:04:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="verifyUserShouldBeNavigateToSignUpPage()[pri:2, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="verifyUserShouldBeNavigateToSignUpPage" duration-ms="7465" started-at="2023-02-10T11:04:15Z" finished-at="2023-02-10T11:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldBeNavigateToSignUpPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="closeBrowser" is-config="true" duration-ms="689" started-at="2023-02-10T11:04:23Z" finished-at="2023-02-10T11:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="initBrowser" is-config="true" duration-ms="10541" started-at="2023-02-10T11:04:24Z" finished-at="2023-02-10T11:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="VerifyUserShouldGetWelcomeMessageAfterLogin()[pri:3, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="VerifyUserShouldGetWelcomeMessageAfterLogin" duration-ms="15266" started-at="2023-02-10T11:04:34Z" finished-at="2023-02-10T11:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserShouldGetWelcomeMessageAfterLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:demoblaze.testcase.RegisterTestCase@c267ef4]" name="closeBrowser" is-config="true" duration-ms="668" started-at="2023-02-10T11:04:49Z" finished-at="2023-02-10T11:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- demoblaze.testcase.RegisterTestCase -->
+    </test> <!-- Device 1 -->
+  </suite> <!-- Regression Runner -->
+</testng-results>
